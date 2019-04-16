@@ -1,5 +1,5 @@
 # Edit.Games
-
+![edit.games-logo](images/edit.games-logo.png)
 [http://edit.games](http://edit.games)
 
 ## 1 Product
@@ -23,3 +23,6 @@
 [https://openttd.org](https://openttd.org)
 
 [https://capitalismlab.com](https://capitalismlab.com)
+
+
+
