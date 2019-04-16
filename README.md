@@ -1,9 +1,25 @@
-# editgames.github.io
+# Edit.Games
 
-http://edit.games
+[http://edit.games](http://edit.games)
+
+## 1 Product
 
 
 
-https://openttd.org
+## 2 Design
 
-https://capitalismlab.com
+
+
+## 3 IDE
+
+[https://www.lazarus-ide.org](https://www.lazarus-ide.org)
+
+[https://www.freepascal.org](https://www.freepascal.org)
+
+
+
+## 4 Reference
+
+[https://openttd.org](https://openttd.org)
+
+[https://capitalismlab.com](https://capitalismlab.com)
